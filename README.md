@@ -14,7 +14,7 @@
 * AtCoder: [CuteWisp](https://atcoder.jp/users/CuteWisp)
 
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sweatpotato)](https://solved.ac/sweatpotato)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sweatpotato)](https://solved.ac/sweatpotato)
 
 
 ### Contacts 📫
