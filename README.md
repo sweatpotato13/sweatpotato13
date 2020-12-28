@@ -16,6 +16,9 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sweatpotato)](https://solved.ac/sweatpotato)
 
+![codeforces tier](http://cutewisp.com:3000/v1/cf/CuteWisp)
+
+![atcoder tier](http://cutewisp.com:3000/v1/ac/CuteWisp)
 
 ### Contacts 📫
 
