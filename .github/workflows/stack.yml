@@ -3,7 +3,7 @@ name: Profile Stack
 on:
   push:
     branches:
-      - master
+      - main
       - test/stack
 
 jobs:
