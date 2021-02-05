@@ -1,4 +1,4 @@
-### About me 👨🏻‍💻
+### 👨🏻‍💻 About me 👨🏻‍💻
 
 <a href="https://github.com/sweatpotato13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sweatpotato13&theme=buefy&show_icons=true&theme=dark" />
@@ -6,7 +6,7 @@
 </a>
 
 
-### Online Judge 💻
+### 💻 Online Judge 💻
 
 * BOJ: [sweatpotato](https://www.acmicpc.net/user/sweatpotato)
   * solvedac: [sweatpotato](https://solved.ac/profile/sweatpotato)
@@ -16,15 +16,15 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sweatpotato)](https://solved.ac/sweatpotato)
 
-[![codeforces tier](http://api.cutewisp.com/v1/cf/CuteWisp)](https://codeforces.com/profile/CuteWisp)
+[![codeforces tier](http://api.cutewisp.com/v1.0/cf/CuteWisp)](https://codeforces.com/profile/CuteWisp)
 
-[![atcoder tier](http://api.cutewisp.com/v1/ac/CuteWisp)](https://atcoder.jp/users/CuteWisp)
+[![atcoder tier](http://api.cutewisp.com/v1.0/ac/CuteWisp)](https://atcoder.jp/users/CuteWisp)
 
-### Contacts 📫
+### 📫 Contacts 📫
 
 * Email: sweatpotato13@gmail.com
 
-### 💻 My Tech Stack
+### 💻 My Tech Stack 💻
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
