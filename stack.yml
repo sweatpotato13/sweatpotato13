@@ -54,13 +54,21 @@
     - https://github.com/sweatpotato13/nodejs-typescript-boilerplate
     - https://github.com/sweatpotato13/PSrating-discord-bot
     - https://github.com/sweatpotato13/github-profile-psbadge
+    - https://github.com/sweatpotato13/cutewisp
 
 - name: React-Native
   logo: react
-  url: https://www.javascript.com/
+  url: https://reactnative.dev/
   color: 61DAFB
   projects:
     - https://github.com/sweatpotato13/WhereWeMeet
+
+- name: React
+  logo: react
+  url: https://ko.reactjs.org/
+  color: 61DAFB
+  projects:
+    - https://github.com/sweatpotato13/cutewisp
 
 - name: Docker
   logo: docker
