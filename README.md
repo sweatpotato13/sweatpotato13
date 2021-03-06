@@ -16,9 +16,9 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sweatpotato)](https://solved.ac/sweatpotato)
 
-[![codeforces tier](http://api.cutewisp.com/v1.0/cf/CuteWisp)](https://codeforces.com/profile/CuteWisp)
+[![codeforces tier](http://api.cutewisp.com/v2.0/cf/CuteWisp)](https://codeforces.com/profile/CuteWisp)
 
-[![atcoder tier](http://api.cutewisp.com/v1.0/ac/CuteWisp)](https://atcoder.jp/users/CuteWisp)
+[![atcoder tier](http://api.cutewisp.com/v2.0/ac/CuteWisp)](https://atcoder.jp/users/CuteWisp)
 
 ### 📫 Contacts 📫
 
