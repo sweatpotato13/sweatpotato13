@@ -59,12 +59,14 @@
     - https://github.com/sweatpotato13/cutewisp
     - https://github.com/sweatpotato13/AtCoderUserInfoDB
     - https://github.com/sweatpotato13/AtCoderUserInfoAPI
+    - https://github.com/sweatpotato13/etherscan-ts
 
 - name: React-Native
   logo: react
   url: https://reactnative.dev/
   color: 61DAFB
   projects:
+    - https://github.com/sweatpotato13/react-native-boilerplate
     - https://github.com/sweatpotato13/WhereWeMeet
 
 - name: React
