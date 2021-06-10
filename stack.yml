@@ -60,6 +60,7 @@
     - url: https://github.com/sweatpotato13/AtCoderUserInfoDB
     - url: https://github.com/sweatpotato13/AtCoderUserInfoAPI
     - url: https://github.com/sweatpotato13/etherscan-ts
+    - url: https://github.com/sweatpotato13/lizard-ts
 
 - name: React-Native
   logo: react
@@ -84,3 +85,12 @@
     - url: https://github.com/sweatpotato13/github-profile-psbadge
     - url: https://github.com/sweatpotato13/AtCoderUserInfoDB
     - url: https://github.com/sweatpotato13/AtCoderUserInfoAPI
+    
+- name: NPM
+  logo: npm
+  url: https://www.npmjs.com/
+  color: CB3837
+  projects:
+    - url: https://github.com/sweatpotato13/devPlayAutoCoupon
+    - url: https://github.com/sweatpotato13/etherscan-ts
+    - url: https://github.com/sweatpotato13/lizard-ts
