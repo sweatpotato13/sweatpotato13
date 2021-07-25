@@ -26,7 +26,6 @@
   color: E0234E
   projects:
     - url: https://github.com/sweatpotato13/nestjs-boilerplate
-    - url: https://github.com/sweatpotato13/PSrating-discord-bot
     - url: https://github.com/sweatpotato13/github-profile-psbadge
     - url: https://github.com/sweatpotato13/AtCoderUserInfoAPI
     - url: https://github.com/sweatpotato13/AtCoderUserInfoDB
