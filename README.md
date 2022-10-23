@@ -13,7 +13,7 @@
 </p>
 </h1>
 
-<h2 align="center"> 📊 Github stats</h2>
+<h2 align="center"> 📊 Github stats
 
 <div align="center">
   <a href="https://github.com/sweatpotato13"><img alt="sweatpotato13's Trophy" src="https://github-profile-trophy.vercel.app/?username=sweatpotato13&column=7&no-bg=true&no-frame=true&theme=juicyfresh" height="192px"/></a>
@@ -24,7 +24,12 @@
 
 <div>
 
-<h2 align="center"> 📚 Languages and Tools</h2>
+</h2>
+
+<h2 align="center"> 📚 Languages and Tools
+
+<br>
+
 <table>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width="200"></td>
@@ -43,3 +48,5 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
   </tr>
 </table>
+
+</h2>
