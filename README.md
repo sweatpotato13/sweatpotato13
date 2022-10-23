@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Cute_Wisp;Backend+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 
-</h1>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="mailto:sweatpotato13@gmail.com"><img width="48px" alt="Email" title="Email" src="https://img.icons8.com/plasticine/344/gmail-new.png"/></a>
@@ -13,6 +11,7 @@
   <a href="https://telegram.me/CuteWisp"><img width="48px" alt="Telegram" title="Telegram" src="https://img.icons8.com/plasticine/2x/telegram-app.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+</h1>
 
 <h2 align="center"> 📊 Github stats</h2>
 
