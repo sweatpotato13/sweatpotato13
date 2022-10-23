@@ -26,6 +26,19 @@
 
 </h2>
 
+<h2 align="center"> 💻 Online Judge
+
+<div align="center">
+  <a href="https://solved.ac/sweatpotato"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sweatpotato" height="192px"/></a>
+
+  <a href="https://codeforces.com/profile/CuteWisp"><img src="https://psbadge.herokuapp.com/cf/CuteWisp" height="192px"/></a>
+
+  <a href="https://atcoder.jp/users/CuteWisp"><img src="https://psbadge.herokuapp.com/ac/CuteWisp" height="192px"/></a>
+<div>
+
+</h2>
+
+
 <h2 align="center"> 📚 Languages and Tools
 
 <br>
