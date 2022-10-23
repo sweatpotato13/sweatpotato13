@@ -1,48 +1,65 @@
-### 👨🏻‍💻 About me 👨🏻‍💻
+<h1 align="center">
 
-<a href="https://github.com/sweatpotato13">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sweatpotato13&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweatpotato13&theme=buefy&layout=compact&theme=dark" />
-</a>
+<!-- Typing SVG -->
 
-### 📫 Contacts 📫
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Cute_Wisp;Backend+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 
-* Email: sweatpotato13@gmail.com
+<!-- Social icons section -->
+<p align="center">
+  <a href="mailto:sweatpotato13@gmail.com"><img width="48px" alt="Email" title="Email" src="https://img.icons8.com/plasticine/344/gmail-new.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://telegram.me/CuteWisp"><img width="48px" alt="Telegram" title="Telegram" src="https://img.icons8.com/plasticine/2x/telegram-app.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+</h1>
 
-### 💻 Online Judge 💻
+<h2 align="center"> 📊 Github stats
 
-* BOJ: [sweatpotato](https://www.acmicpc.net/user/sweatpotato)
-  * solvedac: [sweatpotato](https://solved.ac/profile/sweatpotato)
-* Codeforce: [CuteWisp](https://codeforces.com/profile/CuteWisp)
-* AtCoder: [CuteWisp](https://atcoder.jp/users/CuteWisp)
+<div align="center">
+  <a href="https://github.com/sweatpotato13"><img alt="sweatpotato13's Trophy" src="https://github-profile-trophy.vercel.app/?username=sweatpotato13&column=7&no-bg=true&no-frame=true&theme=juicyfresh" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sweatpotato13's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sweatpotato13&hide_border=true&theme=react" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sweatpotato13's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweatpotato13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sweatpotato)](https://solved.ac/sweatpotato)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sweatpotato13's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sweatpotato13&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-[![codeforces tier](https://psbadge.herokuapp.com/cf/CuteWisp)](https://codeforces.com/profile/CuteWisp) [![atcoder_tier](https://psbadge.herokuapp.com/ac/CuteWisp)](https://atcoder.jp/users/CuteWisp)
+<div>
 
-### 💻 Experience With 💻
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> 
+</h2>
 
-### 💻 Repositories 💻
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![C/CPP](https://img.shields.io/static/v1?label=&message=C/CPP&color=00599C&logo=c%2B%2B&logoColor=FFFFFF)](https://www.cplusplus.com/) | [![Sigpatch-Updater](https://img.shields.io/static/v1?label=&message=Sigpatch-Updater&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/Sigpatch-Updater) [![ELER](https://img.shields.io/static/v1?label=&message=ELER&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/ELER) |
-| [![CSharp](https://img.shields.io/static/v1?label=&message=CSharp&color=23911F&logo=c%23&logoColor=FFFFFF)](https://docs.microsoft.com/ko-kr/dotnet/csharp/) | [![Unity-Shooting-Game](https://img.shields.io/static/v1?label=&message=Unity-Shooting-Game&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/Unity-Shooting-Game) |
-| [![Unity](https://img.shields.io/static/v1?label=&message=Unity&color=0A0A0A&logo=unity&logoColor=FFFFFF)](https://unity.com/) | [![Unity-Shooting-Game](https://img.shields.io/static/v1?label=&message=Unity-Shooting-Game&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/Unity-Shooting-Game) |
-| [![NestJS](https://img.shields.io/static/v1?label=&message=NestJS&color=E0234E&logo=nestjs&logoColor=FFFFFF)](https://nestjs.com/) | [![nestjs-boilerplate](https://img.shields.io/static/v1?label=&message=nestjs-boilerplate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/nestjs-boilerplate) [![github-profile-psbadge](https://img.shields.io/static/v1?label=&message=github-profile-psbadge&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/github-profile-psbadge) [![atcoder-user-api](https://img.shields.io/static/v1?label=&message=atcoder-user-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/atcoder-user-api) [![atcoder-user-db-parser](https://img.shields.io/static/v1?label=&message=atcoder-user-db-parser&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/atcoder-user-db-parser) |
-| [![Swift](https://img.shields.io/static/v1?label=&message=Swift&color=E45530&logo=swift&logoColor=FFFFFF)](https://swift.org/) | [![CurrencyConverter](https://img.shields.io/static/v1?label=&message=CurrencyConverter&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/CurrencyConverter) [![Sudoku](https://img.shields.io/static/v1?label=&message=Sudoku&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/Sudoku) [![dodoList](https://img.shields.io/static/v1?label=&message=dodoList&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/dodoList) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) | [![WhereWeMeet](https://img.shields.io/static/v1?label=&message=WhereWeMeet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/WhereWeMeet) |
-| [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![nestjs-boilerplate](https://img.shields.io/static/v1?label=&message=nestjs-boilerplate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/nestjs-boilerplate) [![nodejs-typescript-boilerplate](https://img.shields.io/static/v1?label=&message=nodejs-typescript-boilerplate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/nodejs-typescript-boilerplate) [![react-typescript-boilerplate](https://img.shields.io/static/v1?label=&message=react-typescript-boilerplate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/react-typescript-boilerplate) [![react-native-boilerplate](https://img.shields.io/static/v1?label=&message=react-native-boilerplate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/react-native-boilerplate) [![PSrating-discord-bot](https://img.shields.io/static/v1?label=&message=PSrating-discord-bot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/PSrating-discord-bot) [![github-profile-psbadge](https://img.shields.io/static/v1?label=&message=github-profile-psbadge&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/github-profile-psbadge) [![atcoder-user-db-parser](https://img.shields.io/static/v1?label=&message=atcoder-user-db-parser&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/atcoder-user-db-parser) [![atcoder-user-api](https://img.shields.io/static/v1?label=&message=atcoder-user-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/atcoder-user-api) [![devplay-auto-coupon](https://img.shields.io/static/v1?label=&message=devplay-auto-coupon&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/devplay-auto-coupon) [![etherscan-ts](https://img.shields.io/static/v1?label=&message=etherscan-ts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/etherscan-ts) [![lizard-ts](https://img.shields.io/static/v1?label=&message=lizard-ts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/lizard-ts) [![cutewisp](https://img.shields.io/static/v1?label=&message=cutewisp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/cutewisp) [![liquidity-api](https://img.shields.io/static/v1?label=&message=liquidity-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/liquidity-api) |
-| [![React-Native](https://img.shields.io/static/v1?label=&message=React-Native&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactnative.dev/) | [![react-native-boilerplate](https://img.shields.io/static/v1?label=&message=react-native-boilerplate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/react-native-boilerplate) [![WhereWeMeet](https://img.shields.io/static/v1?label=&message=WhereWeMeet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/WhereWeMeet) |
-| [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://ko.reactjs.org/) | [![react-typescript-boilerplate](https://img.shields.io/static/v1?label=&message=react-typescript-boilerplate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/react-typescript-boilerplate) [![cutewisp](https://img.shields.io/static/v1?label=&message=cutewisp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/cutewisp) |
-| [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=4FA1EF&logo=docker&logoColor=FFFFFF)](https://www.docker.com/) | [![github-profile-psbadge](https://img.shields.io/static/v1?label=&message=github-profile-psbadge&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/github-profile-psbadge) [![atcoder-user-db-parser](https://img.shields.io/static/v1?label=&message=atcoder-user-db-parser&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/atcoder-user-db-parser) [![atcoder-user-api](https://img.shields.io/static/v1?label=&message=atcoder-user-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/atcoder-user-api) [![liquidity-api](https://img.shields.io/static/v1?label=&message=liquidity-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/liquidity-api) |
-| [![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=CB3837&logo=npm&logoColor=FFFFFF)](https://www.npmjs.com/) | [![devplay-auto-coupon](https://img.shields.io/static/v1?label=&message=devplay-auto-coupon&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/devplay-auto-coupon) [![etherscan-ts](https://img.shields.io/static/v1?label=&message=etherscan-ts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/etherscan-ts) [![lizard-ts](https://img.shields.io/static/v1?label=&message=lizard-ts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/lizard-ts) [![newhope-ts](https://img.shields.io/static/v1?label=&message=newhope-ts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sweatpotato13/newhope-ts) |
+<h2 align="center"> 💻 Online Judge
+
+<div align="center">
+  <a href="https://solved.ac/sweatpotato"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sweatpotato" height="192px"/></a>
+
+  <a href="https://codeforces.com/profile/CuteWisp"><img src="https://psbadge.herokuapp.com/cf/CuteWisp" height="192px"/></a>
+
+  <a href="https://atcoder.jp/users/CuteWisp"><img src="https://psbadge.herokuapp.com/ac/CuteWisp" height="192px"/></a>
+<div>
+
+</h2>
+
+
+<h2 align="center"> 📚 Languages and Tools
+
+<br>
+
+<table>
+  <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/node-js-5363131-4488920.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" width="200"></td>
+      <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3521413-2944857.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/eos-3-645901.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-5285261-4406698.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
+  </tr>
+</table>
+
+</h2>
