@@ -50,6 +50,7 @@
       <td><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/node-js-5363131-4488920.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/rust-3521686-2945130.png" width="200"></td>
       <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3521413-2944857.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/eos-3-645901.png" width="200"></td>
