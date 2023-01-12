@@ -10,6 +10,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://telegram.me/CuteWisp"><img width="48px" alt="Telegram" title="Telegram" src="https://img.icons8.com/plasticine/2x/telegram-app.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/chorong-jang-06394b204/"><img width="48px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/CsrO0Xn.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 </h1>
 
