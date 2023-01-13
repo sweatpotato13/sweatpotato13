@@ -11,7 +11,6 @@
   <a href="https://telegram.me/CuteWisp"><img width="48px" alt="Telegram" title="Telegram" src="https://img.icons8.com/plasticine/2x/telegram-app.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/chorong-jang-06394b204/"><img width="48px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/CsrO0Xn.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 </h1>
 
@@ -20,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/sweatpotato13"><img alt="sweatpotato13's Trophy" src="https://github-profile-trophy.vercel.app/?username=sweatpotato13&column=7&no-bg=true&no-frame=true&theme=juicyfresh" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sweatpotato13's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sweatpotato13&hide_border=true&theme=react" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sweatpotato13's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweatpotato13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sweatpotato13's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sweatpotato13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sweatpotato13's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=sweatpotato13&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
