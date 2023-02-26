@@ -51,6 +51,7 @@
       <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3521413-2944857.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/eos-3-645901.png" width="200"></td>
+      <td><img src="https://i.imgur.com/YOAKUc8.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-5285261-4406698.png" width="200"></td>
   </tr>
