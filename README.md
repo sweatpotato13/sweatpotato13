@@ -15,9 +15,10 @@
 </h1>
 
 <h2 align="center"> 📊 Github stats
-
+  
+<br>
+  
 <div align="center">
-  <a href="https://github.com/sweatpotato13"><img alt="sweatpotato13's Trophy" src="https://github-profile-trophy.vercel.app/?username=sweatpotato13&column=7&no-bg=true&no-frame=true&theme=juicyfresh" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sweatpotato13's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sweatpotato13&hide_border=true&theme=react" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sweatpotato13's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sweatpotato13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
