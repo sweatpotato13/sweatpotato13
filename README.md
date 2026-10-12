@@ -20,35 +20,8 @@
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img alt="github-readme-streak-stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=sweatpotato13&hide_border=true&theme=react" height="192px"/></a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sweatpotato13's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sweatpotato13&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/maurodesouza/github-readme-activity-graph-action"><img alt="sweatpotato13's Activity Graph" src="https://raw.githubusercontent.com/sweatpotato13/sweatpotato13/output/activity-graph.svg" /></a>
 
 <div>
-
-</h2>
-
-<h2 align="center"> 📚 Languages and Tools
-
-<br>
-
-<table>
-  <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/node-js-5363131-4488920.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/rust-3521686-2945130.png" width="200"></td>
-      <td><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3521413-2944857.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/eos-3-645901.png" width="200"></td>
-      <td><img src="https://i.imgur.com/YOAKUc8.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-5285261-4406698.png" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-  </tr>
-</table>
 
 </h2>
